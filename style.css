@@ -135,7 +135,7 @@ form{
     font-size: 14px;
     color: black;
 }
-.a:hover{
+a:hover{
     text-decoration: underline;
 }
 input:focus{
